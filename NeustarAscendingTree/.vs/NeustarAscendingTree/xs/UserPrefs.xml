@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{07884DC7-CAFC-4B88-BCEE-BDFBF7C6CF99}|Default">
-  <MonoDevelop.Ide.ItemProperties.NeustarAscendingTree FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NeustarAscendingTree PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="NeustarAscendingTree/Program.cs">
     <Files>
-      <File FileName="NeustarAscendingTree/Program.cs" Line="1" Column="1" />
+      <File FileName="NeustarAscendingTree/Program.cs" Line="45" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
