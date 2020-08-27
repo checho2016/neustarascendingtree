@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NeustarAscendingTree/1.0.0": {
+        "runtime": {
+          "NeustarAscendingTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeustarAscendingTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

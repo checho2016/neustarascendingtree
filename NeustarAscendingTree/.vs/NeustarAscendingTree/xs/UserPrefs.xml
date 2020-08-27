@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{07884DC7-CAFC-4B88-BCEE-BDFBF7C6CF99}|Default">
+  <MonoDevelop.Ide.ItemProperties.NeustarAscendingTree FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NeustarAscendingTree/Program.cs">
+    <Files>
+      <File FileName="NeustarAscendingTree/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NeustarAscendingTree" expanded="True">
+            <Node name="NeustarAscendingTree" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

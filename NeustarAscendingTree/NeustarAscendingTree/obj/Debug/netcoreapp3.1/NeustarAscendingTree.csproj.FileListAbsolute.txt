@@ -1,0 +1,12 @@
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/bin/Debug/netcoreapp3.1/NeustarAscendingTree.deps.json
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/bin/Debug/netcoreapp3.1/NeustarAscendingTree.runtimeconfig.json
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/bin/Debug/netcoreapp3.1/NeustarAscendingTree.runtimeconfig.dev.json
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/bin/Debug/netcoreapp3.1/NeustarAscendingTree.dll
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/bin/Debug/netcoreapp3.1/NeustarAscendingTree.pdb
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.csprojAssemblyReference.cache
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.AssemblyInfoInputs.cache
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.AssemblyInfo.cs
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.csproj.CoreCompileInputs.cache
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.dll
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.pdb
+/Users/sergioflores/Documentos/NeustarAscendingTree/NeustarAscendingTree/NeustarAscendingTree/obj/Debug/netcoreapp3.1/NeustarAscendingTree.genruntimeconfig.cache
